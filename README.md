@@ -23,7 +23,11 @@
 [![Visits](https://komarev.com/ghpvc/?username=iamsammy-ak&color=FF3E00&style=flat)]  
 [![Followers](https://img.shields.io/github/followers/iamsammy-ak?label=Followers&style=social)]
 
-</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Available for:** *Consulting · Collaboration · Speaking Engagements*
 
 
 <p align="center">
