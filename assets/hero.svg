@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="ak-hero-title ak-hero-desc">
+  <title id="ak-hero-title">Abhishek Kumar — Engineering Management, data and product</title>
+  <desc id="ak-hero-desc">Burgundy banner with a technical grid, orbital geometry and a drawn path, with the name Abhishek Kumar.</desc>
+  <defs>
+    <linearGradient id="ak-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#2A0C1A"/>
+    </linearGradient>
+    <radialGradient id="ak-glow-a" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#451126" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#451126" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ak-glow-b" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ak-sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F8F0F3" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ak-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#C77B9B"/>
+      <stop offset="0.75" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ak-name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8F0F3"/>
+      <stop offset="1" stop-color="#E5B5C7"/>
+    </linearGradient>
+    <pattern id="ak-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <pattern id="ak-grid-fine" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <filter id="ak-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="ak-soft" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="1.4"/>
+    </filter>
+    <mask id="ak-fade">
+      <linearGradient id="ak-fade-g" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="0.7" stop-color="#fff"/>
+        <stop offset="1" stop-color="#000"/>
+      </linearGradient>
+      <rect width="1200" height="400" fill="url(#ak-fade-g)"/>
+    </mask>
+    <clipPath id="ak-clip">
+      <rect width="1200" height="400" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#ak-clip)">
+    <!-- ground -->
+    <rect width="1200" height="400" fill="url(#ak-bg)"/>
+    <rect width="1200" height="400" fill="url(#ak-grid-fine)"/>
+    <rect width="1200" height="400" fill="url(#ak-grid)" mask="url(#ak-fade)"/>
+
+    <!-- ambient light, slow drift -->
+    <ellipse cx="965" cy="190" rx="420" ry="260" fill="url(#ak-glow-a)">
+      <animate attributeName="cx" values="965;935;965" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="190;215;190" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="180" cy="330" rx="300" ry="160" fill="url(#ak-glow-a)" opacity="0.6">
+      <animate attributeName="cx" values="180;230;180" dur="17s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="995" cy="200" r="90" fill="url(#ak-glow-b)">
+      <animate attributeName="r" values="90;120;90" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- light sweep -->
+    <rect x="-400" y="0" width="400" height="400" fill="url(#ak-sweep)" transform="skewX(-18)">
+      <animate attributeName="x" values="-400;1400" dur="9s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- orbital geometry -->
+    <g transform="translate(995 200)" fill="none" stroke-linecap="round">
+      <circle r="150" stroke="#701A3D" stroke-width="1" stroke-opacity="0.9"/>
+      <circle r="110" stroke="#C77B9B" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="2 10"/>
+      <g>
+        <ellipse rx="150" ry="52" stroke="#E5B5C7" stroke-opacity="0.35" stroke-width="1"/>
+        <circle cx="150" cy="0" r="4" fill="#E5B5C7" stroke="none"/>
+        <circle cx="150" cy="0" r="10" fill="#E5B5C7" fill-opacity="0.25" stroke="none" filter="url(#ak-soft)"/>
+        <animateTransform attributeName="transform" type="rotate" from="-18 0 0" to="342 0 0" dur="22s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <ellipse rx="110" ry="110" stroke="none"/>
+        <circle cx="0" cy="-110" r="3" fill="#C77B9B" stroke="none"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="30s" repeatCount="indefinite"/>
+      </g>
+      <circle r="150" stroke="#E5B5C7" stroke-width="1.5" stroke-dasharray="40 902" stroke-opacity="0.9">
+        <animate attributeName="stroke-dashoffset" values="0;-942" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="18" stroke="#E5B5C7" stroke-opacity="0.6" stroke-width="1"/>
+      <circle r="4" fill="#F8F0F3" stroke="none">
+        <animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M-170 0H-158M158 0H170M0 -170V-158M0 158V170" stroke="#C77B9B" stroke-opacity="0.6" stroke-width="1"/>
+    </g>
+
+    <!-- drawn path: a corridor-and-door line, the portfolio's motif -->
+    <path d="M60 318 C 180 318, 230 250, 330 250 S 470 318, 560 300 S 650 232, 730 262 S 820 312, 880 290"
+          fill="none" stroke="url(#ak-line)" stroke-width="1.6" stroke-linecap="round"
+          stroke-dasharray="1100" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="1100;0;0;1100" keyTimes="0;0.45;0.8;1" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="880" cy="290" r="3" fill="#E5B5C7">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.5;0.8;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- corner marks and index -->
+    <g stroke="#C77B9B" stroke-opacity="0.55" stroke-width="1" fill="none">
+      <path d="M40 60V40H60M1140 40h20v20M40 340v20h20M1160 340v20h-20"/>
+    </g>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="2.5">
+      <text x="64" y="68">TURIN · ITALY</text>
+      <text x="1136" y="68" text-anchor="end">EST. 2022 · POLITO</text>
+      <text x="64" y="358">ENGINEERING × BUSINESS</text>
+      <text x="1136" y="358" text-anchor="end">45.07° N · 7.69° E</text>
+    </g>
+
+    <!-- eyebrow -->
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" letter-spacing="4">
+      <text x="64" y="138">HELLO, I'M</text>
+      <rect x="64" y="146" width="28" height="1.5" fill="#C77B9B">
+        <animate attributeName="width" values="28;64;28" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- name -->
+    <text x="60" y="226" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif"
+          font-size="86" font-weight="700" fill="url(#ak-name)" letter-spacing="-1">Abhishek Kumar</text>
+
+    <!-- glowing underline -->
+    <rect x="64" y="246" width="520" height="3" rx="1.5" fill="#C77B9B" filter="url(#ak-blur)" opacity="0.9">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="64" y="246" width="520" height="2" rx="1" fill="url(#ak-line)">
+      <animate attributeName="width" values="0;520;520" keyTimes="0;0.25;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- role line -->
+    <text x="64" y="286" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif"
+          font-size="22" font-style="italic" fill="#E5B5C7">Engineering Management @ Politecnico di Torino</text>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F8F0F3" fill-opacity="0.78" letter-spacing="2.5">
+      <text x="64" y="314">DATA · PRODUCT · AI · 3× HACKATHON PODIUMS</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="ak-footer-title">
+  <title id="ak-footer-title">Thanks for walking through. Say hello.</title>
+  <defs>
+    <linearGradient id="ak-f-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#190B12"/>
+      <stop offset="0.5" stop-color="#2A0C1A"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="ak-f-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="ak-f-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.14"/>
+    </pattern>
+    <clipPath id="ak-f-clip">
+      <rect width="1200" height="120" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#ak-f-clip)">
+    <rect width="1200" height="120" fill="url(#ak-f-bg)"/>
+    <rect width="1200" height="120" fill="url(#ak-f-dots)"/>
+
+    <!-- heartbeat-style drawn path -->
+    <path d="M0 60 H440 l12 -18 l14 36 l12 -30 l10 12 H560" fill="none" stroke="url(#ak-f-line)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+          stroke-dasharray="600" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="600;0;0;600" keyTimes="0;0.4;0.75;1" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M640 60 H1200" fill="none" stroke="url(#ak-f-line)" stroke-width="1.5" stroke-linecap="round"/>
+
+    <circle cx="600" cy="60" r="5" fill="#E5B5C7"/>
+    <circle cx="600" cy="60" r="5" fill="none" stroke="#E5B5C7" stroke-width="1.2">
+      <animate attributeName="r" values="5;26" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="600" y="100" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="3.5">THANKS FOR WALKING THROUGH · SAY HELLO</text>
+    <text x="600" y="30" text-anchor="middle" font-family="Georgia, 'Palatino Linotype', 'Times New Roman', serif" font-size="15" font-style="italic" fill="#E5B5C7">Computer engineer by training, manager by ambition.</text>
+  </g>
+</svg>
