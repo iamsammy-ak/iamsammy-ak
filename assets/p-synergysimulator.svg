@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="118" viewBox="0 0 1000 118" role="img" aria-labelledby="psynergysimulator-t">
+  <title id="psynergysimulator-t">M&amp;A Synergy Simulator: Client-side financial model for merger deals: premiums, pro-forma financials, accretion / dilution, ownership splits and 2D sensitivity heatmaps. Built with React · TypeScript.</title>
+  <defs>
+    <linearGradient id="psynergysimulator-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="psynergysimulator-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="psynergysimulator-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="psynergysimulator-clip"><rect width="1000" height="118" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#psynergysimulator-clip)">
+<rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#psynergysimulator-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#psynergysimulator-dots)"/>
+<rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">04</text>
+<text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">M&amp;A Synergy Simulator</text>
+<rect x="354.92" y="20" width="57" height="22" rx="11.0" fill="#701A3D" stroke="#E5B5C7" stroke-width="1"/><text x="383.42" y="34.6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#F8F0F3" text-anchor="middle">LIVE ↗</text>
+<text x="423.92" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">SynergySimulator</text>
+<text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">Client-side financial model for merger deals: premiums, pro-forma financials, accretion /</text>
+<text x="36" y="85" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">dilution, ownership splits and 2D sensitivity heatmaps.</text>
+<text x="976" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#E5B5C7" text-anchor="end" letter-spacing="1.5" fill-opacity="0.85">REACT · TYPESCRIPT</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="timeline-t">
+  <title id="timeline-t">2025 – now: M.Sc. Engineering Management, Politecnico di Torino; Jan – Jun 2025: Technical Management Trainee, OpenSky VR Italia; Sep 2023 – Dec 2024: Junior Data Analyst, Fibzio; Apr 2023 – now: President, Politecnico Indian Students Association; May – Jul 2024: Logistics Coordinator, Torino 2025 FISU Games; Nov 2022 – Jun 2023: Marketing Manager, AIESEC; 2022 – 2025: B.Sc. Computer Engineering, Politecnico di Torino</title>
+  <defs>
+    <linearGradient id="timeline-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="timeline-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="timeline-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="timeline-clip"><rect width="1000" height="500" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#timeline-clip)">
+<rect x="0" y="0" width="1000" height="500" rx="18" fill="url(#timeline-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="500" rx="18" fill="url(#timeline-dots)"/>
+<rect x="236" y="28" width="1" height="452" fill="#701A3D"/>
+<text x="214" y="52" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">2025 – NOW</text>
+<circle cx="236.5" cy="47" r="5" fill="#E5B5C7" opacity="0.5"><animate attributeName="r" values="5;12" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="236.5" cy="47" r="4.5" fill="#E5B5C7" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="53" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">M.Sc. Engineering Management</text>
+<text x="627.12" y="53" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">Politecnico di Torino</text>
+<text x="264" y="75" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">Focus: business solutions and finance</text>
+<text x="214" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">JAN – JUN 2025</text>
+<circle cx="236.5" cy="113" r="4.5" fill="#190B12" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="119" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">Technical Management Trainee</text>
+<text x="627.12" y="119" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">OpenSky VR Italia</text>
+<text x="264" y="141" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">React, Angular, Matterport, LiDAR · MVP in six months · ~30% faster property presentations</text>
+<text x="214" y="184" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">SEP 2023 – DEC 2024</text>
+<circle cx="236.5" cy="179" r="4.5" fill="#190B12" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="185" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">Junior Data Analyst</text>
+<text x="514.26" y="185" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">Fibzio</text>
+<text x="264" y="207" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">SQL, Power BI, FP&amp;A · 40% faster reporting · 20% fewer incidents · +25% client satisfaction</text>
+<text x="214" y="250" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">APR 2023 – NOW</text>
+<circle cx="236.5" cy="245" r="5" fill="#E5B5C7" opacity="0.5"><animate attributeName="r" values="5;12" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="236.5" cy="245" r="4.5" fill="#E5B5C7" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="251" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">President</text>
+<text x="388.86" y="251" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">Politecnico Indian Students Association</text>
+<text x="264" y="273" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">Strategy and events for 1,000+ students · Red Bull-sponsored chess tournament, 400+ players</text>
+<text x="214" y="316" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">MAY – JUL 2024</text>
+<circle cx="236.5" cy="311" r="4.5" fill="#190B12" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="317" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">Logistics Coordinator</text>
+<text x="539.34" y="317" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">Torino 2025 FISU Games</text>
+<text x="264" y="339" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">5+ venues, inspections, on-site execution</text>
+<text x="214" y="382" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">NOV 2022 – JUN 2023</text>
+<circle cx="236.5" cy="377" r="4.5" fill="#190B12" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="383" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">Marketing Manager</text>
+<text x="489.18" y="383" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">AIESEC</text>
+<text x="264" y="405" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F8F0F3" fill-opacity="0.68">Led a volunteer team of 10+</text>
+<text x="214" y="448" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="1.5">2022 – 2025</text>
+<circle cx="236.5" cy="443" r="4.5" fill="#190B12" stroke="#E5B5C7" stroke-width="1.2"/>
+<text x="264" y="449" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="19" fill="#F8F0F3" font-weight="700">B.Sc. Computer Engineering</text>
+<text x="602.04" y="449" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.9">Politecnico di Torino</text>
+  </g>
+</svg>

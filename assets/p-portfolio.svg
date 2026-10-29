@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="118" viewBox="0 0 1000 118" role="img" aria-labelledby="pportfolio-t">
+  <title id="pportfolio-t">Hand-drawn 3D portfolio: A portfolio you walk through: paper-tear loader, a sketched building, a corridor with doors to four rooms. Every drawing is procedural canvas, no image files. Built with three.js · GSAP · Canvas 2D.</title>
+  <defs>
+    <linearGradient id="pportfolio-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="pportfolio-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pportfolio-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="pportfolio-clip"><rect width="1000" height="118" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#pportfolio-clip)">
+<rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pportfolio-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pportfolio-dots)"/>
+<rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">01</text>
+<text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">Hand-drawn 3D portfolio</text>
+<rect x="383.96000000000004" y="20" width="57" height="22" rx="11.0" fill="#701A3D" stroke="#E5B5C7" stroke-width="1"/><text x="412.46000000000004" y="34.6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#F8F0F3" text-anchor="middle">LIVE ↗</text>
+<text x="452.96000000000004" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">portfolio</text>
+<text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">A portfolio you walk through: paper-tear loader, a sketched building, a corridor with doors to</text>
+<text x="36" y="85" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">four rooms. Every drawing is procedural canvas, no image files.</text>
+<text x="976" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#E5B5C7" text-anchor="end" letter-spacing="1.5" fill-opacity="0.85">THREE.JS · GSAP · CANVAS 2D</text>
+  </g>
+</svg>

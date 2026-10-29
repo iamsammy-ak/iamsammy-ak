@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="298" viewBox="0 0 1000 298" role="img" aria-labelledby="intro-t">
+  <title id="intro-t">I&#x27;m Abhishek, an Engineering Management master&#x27;s student at Politecnico di Torino, with a B.Sc. in Computer Engineering from the same place. I like the seam between engineering and business: taking something technical, understanding who it is for, and shipping it. Before this I built a VR property-visualisation platform as a Technical Management Trainee at OpenSky VR Italia, and spent a year and a half as a Junior Data Analyst at Fibzio turning SQL and Power BI into decisions. On the side I lead the Politecnico Indian Students Association, which reaches more than a thousand students. In 2026 I stood on three hackathon podiums.</title>
+  <defs>
+    <linearGradient id="intro-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="intro-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="intro-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="intro-clip"><rect width="1000" height="298" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#intro-clip)">
+<rect x="0" y="0" width="1000" height="298" rx="18" fill="url(#intro-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="298" rx="18" fill="url(#intro-dots)"/>
+<rect x="0" y="0" width="4" height="298" fill="#C77B9B"/>
+<text x="60" y="57" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">I&#x27;m Abhishek, an Engineering Management master&#x27;s student at Politecnico di Torino, with a B.Sc. in</text>
+<text x="60" y="85" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">Computer Engineering from the same place. I like the seam between engineering and business: taking</text>
+<text x="60" y="113" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">something technical, understanding who it is for, and shipping it.</text>
+<text x="60" y="169" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">Before this I built a VR property-visualisation platform as a Technical Management Trainee at OpenSky</text>
+<text x="60" y="197" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">VR Italia, and spent a year and a half as a Junior Data Analyst at Fibzio turning SQL and Power BI into</text>
+<text x="60" y="225" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">decisions. On the side I lead the Politecnico Indian Students Association, which reaches more than a</text>
+<text x="60" y="253" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="17" fill="#F8F0F3" fill-opacity="0.92">thousand students. In 2026 I stood on three hackathon podiums.</text>
+  </g>
+</svg>

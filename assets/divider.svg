@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="20" viewBox="0 0 1000 20" role="img" aria-labelledby="divider-t">
+  <title id="divider-t">divider</title>
+  <defs>
+    <linearGradient id="divider-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="divider-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="divider-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="divider-clip"><rect width="1000" height="20" rx="0"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#divider-clip)">
+<rect x="0" y="9" width="1000" height="1" fill="url(#divider-rule)"/><circle cx="0" cy="9.5" r="3" fill="#E5B5C7"><animate attributeName="cx" values="0;1000" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="6s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

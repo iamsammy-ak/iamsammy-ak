@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="58" viewBox="0 0 130 58" role="img" aria-labelledby="btngithub-t">
+  <title id="btngithub-t">GitHub (iamsammy-ak)</title>
+  <defs>
+    <linearGradient id="btngithub-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="btngithub-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="btngithub-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="btngithub-clip"><rect width="130" height="58" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#btngithub-clip)">
+<rect x="0" y="0" width="130" height="58" rx="14" fill="url(#btngithub-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="130" height="58" rx="14" fill="url(#btngithub-dots)"/>
+<text x="18" y="26" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#F8F0F3" font-weight="700">GitHub</text>
+<text x="18" y="43" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#C77B9B" letter-spacing="0.6">iamsammy-ak</text>
+<circle cx="104" cy="29" r="13" fill="#451126" stroke="#701A3D"/>
+<path d="M99 29h10m-4 -4l4 4l-4 4" fill="none" stroke="#E5B5C7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" values="0 0;2 0;0 0" dur="1.8s" repeatCount="indefinite"/></path>
+  </g>
+</svg>

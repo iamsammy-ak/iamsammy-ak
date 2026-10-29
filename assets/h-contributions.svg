@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" role="img" aria-labelledby="hcontributions-t">
+  <title id="hcontributions-t">05 Contributions</title>
+  <defs>
+    <linearGradient id="hcontributions-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="hcontributions-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="hcontributions-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="hcontributions-clip"><rect width="1000" height="72" rx="0"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#hcontributions-clip)">
+
+    <text x="0" y="44" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#C77B9B" letter-spacing="3">05</text>
+    <text x="50" y="44" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="30" fill="#F8F0F3" font-weight="700">Contributions</text>
+    <rect x="312" y="38" width="428" height="1" fill="url(#hcontributions-rule)">
+      <animate attributeName="width" values="0;428" dur="1.6s" fill="freeze"/>
+    </rect>
+    <circle cx="312" cy="38.5" r="2.5" fill="#E5B5C7"/>
+    <text x="1000" y="44" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" text-anchor="end" letter-spacing="2.5">LIVE DATA FROM GITHUB</text>
+    <rect x="0" y="62" width="1000" height="1" fill="#701A3D" fill-opacity="0.5"/>
+  </g>
+</svg>

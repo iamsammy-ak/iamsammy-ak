@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="118" viewBox="0 0 1000 118" role="img" aria-labelledby="pstockvault-t">
+  <title id="pstockvault-t">StockVault: A stock-trading platform with portfolio tracking, live quotes from Yahoo Finance, watchlists, stop-loss orders and candlestick charts. Built with Flask · SQLite · Plotly.</title>
+  <defs>
+    <linearGradient id="pstockvault-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="pstockvault-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pstockvault-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="pstockvault-clip"><rect width="1000" height="118" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#pstockvault-clip)">
+<rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pstockvault-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pstockvault-dots)"/>
+<rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">06</text>
+<text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">StockVault</text>
+<text x="197.20000000000002" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">StockVault</text>
+<text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">A stock-trading platform with portfolio tracking, live quotes from Yahoo Finance, watchlists,</text>
+<text x="36" y="85" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">stop-loss orders and candlestick charts.</text>
+<text x="976" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#E5B5C7" text-anchor="end" letter-spacing="1.5" fill-opacity="0.85">FLASK · SQLITE · PLOTLY</text>
+  </g>
+</svg>

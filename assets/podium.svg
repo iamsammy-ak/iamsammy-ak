@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="262" viewBox="0 0 1000 262" role="img" aria-labelledby="podium-t">
+  <title id="podium-t">1st LOKI Urban Monitoring Hackathon 404: Pothole Not Found · Oct 2026; 2nd Automation Hackathon Mar 2026; 1st Therness Hackathon Feb 2026</title>
+  <defs>
+    <linearGradient id="podium-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="podium-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="podium-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="podium-clip"><rect width="1000" height="262" rx="0"/></clipPath>
+    <radialGradient id="podium-medal" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D"/></radialGradient><filter id="podium-glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <g clip-path="url(#podium-clip)">
+<rect x="0.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-dots)"/>
+<circle cx="46.0" cy="46" r="22" fill="#C77B9B" filter="url(#podium-glow)" opacity="0.55"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="46.0" cy="46" r="22" fill="url(#podium-medal)" stroke="#E5B5C7" stroke-width="1"/>
+<text x="46.0" y="51" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#10070C" font-weight="700" text-anchor="middle">1st</text>
+<text x="82.0" y="42" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#C77B9B" letter-spacing="2.5">HACKATHON</text>
+<text x="82.0" y="60" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#E5B5C7" letter-spacing="1.5" fill-opacity="0.9">404: POTHOLE NOT FOUND · OCT 2026</text>
+<text x="28.0" y="104" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="21" fill="#F8F0F3" font-weight="700">LOKI Urban Monitoring</text>
+<text x="28.0" y="130" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="21" fill="#F8F0F3" font-weight="700">Hackathon</text>
+<text x="28.0" y="162" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">cityX: an AI civic-intelligence platform</text>
+<text x="28.0" y="181" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">that turns street reports into actionable</text>
+<text x="28.0" y="200" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">incidents, with geospatial analysis,</text>
+<text x="28.0" y="219" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">duplicate detection and risk-based</text>
+<text x="28.0" y="238" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">prioritisation.</text>
+<rect x="340.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="340.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-dots)"/>
+<circle cx="386.0" cy="46" r="22" fill="#C77B9B" filter="url(#podium-glow)" opacity="0.55"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="386.0" cy="46" r="22" fill="url(#podium-medal)" stroke="#E5B5C7" stroke-width="1"/>
+<text x="386.0" y="51" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#10070C" font-weight="700" text-anchor="middle">2nd</text>
+<text x="422.0" y="42" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#C77B9B" letter-spacing="2.5">HACKATHON</text>
+<text x="422.0" y="60" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#E5B5C7" letter-spacing="1.5" fill-opacity="0.9">MAR 2026</text>
+<text x="368.0" y="104" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="21" fill="#F8F0F3" font-weight="700">Automation Hackathon</text>
+<text x="368.0" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">An AI supply-chain risk platform built in</text>
+<text x="368.0" y="155" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">five hours. ScrapeGraphAI and LLMs profile</text>
+<text x="368.0" y="174" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">1,000+ vendors and flag geopolitical,</text>
+<text x="368.0" y="193" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">weather and logistics risks on cargo routes.</text>
+<rect x="680.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="680.0" y="0" width="320.0" height="262" rx="18" fill="url(#podium-dots)"/>
+<circle cx="726.0" cy="46" r="22" fill="#C77B9B" filter="url(#podium-glow)" opacity="0.55"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="726.0" cy="46" r="22" fill="url(#podium-medal)" stroke="#E5B5C7" stroke-width="1"/>
+<text x="726.0" y="51" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#10070C" font-weight="700" text-anchor="middle">1st</text>
+<text x="762.0" y="42" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#C77B9B" letter-spacing="2.5">HACKATHON</text>
+<text x="762.0" y="60" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#E5B5C7" letter-spacing="1.5" fill-opacity="0.9">FEB 2026</text>
+<text x="708.0" y="104" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="21" fill="#F8F0F3" font-weight="700">Therness Hackathon</text>
+<text x="708.0" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">1,551 welding samples across thermal video,</text>
+<text x="708.0" y="155" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">audio and sensor data, detected and</text>
+<text x="708.0" y="174" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.8">classified into six defect categories.</text>
+  </g>
+</svg>

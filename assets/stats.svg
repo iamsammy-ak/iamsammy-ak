@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-labelledby="stats-t">
+  <title id="stats-t">3 hackathon podiums in 2026; 1,000+ students reached as PISA president; 40% faster reporting at Fibzio; ~30% faster property demos at OpenSky VR</title>
+  <defs>
+    <linearGradient id="stats-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="stats-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="stats-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="stats-clip"><rect width="1000" height="140" rx="0"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#stats-clip)">
+<rect x="0.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-dots)"/>
+<rect x="24.0" y="0" width="56" height="3" rx="1.5" fill="#C77B9B"><animate attributeName="width" values="56;110;56" dur="4s" repeatCount="indefinite"/></rect>
+<text x="24.0" y="72" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="46" fill="#E5B5C7" font-weight="700">3</text>
+<text x="24.0" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">HACKATHON PODIUMS IN</text>
+<text x="24.0" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">2026</text>
+<rect x="255.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="255.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-dots)"/>
+<rect x="279.0" y="0" width="56" height="3" rx="1.5" fill="#C77B9B"><animate attributeName="width" values="56;110;56" dur="5s" repeatCount="indefinite"/></rect>
+<text x="279.0" y="72" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="46" fill="#E5B5C7" font-weight="700">1,000+</text>
+<text x="279.0" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">STUDENTS REACHED AS</text>
+<text x="279.0" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">PISA PRESIDENT</text>
+<rect x="510.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="510.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-dots)"/>
+<rect x="534.0" y="0" width="56" height="3" rx="1.5" fill="#C77B9B"><animate attributeName="width" values="56;110;56" dur="6s" repeatCount="indefinite"/></rect>
+<text x="534.0" y="72" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="46" fill="#E5B5C7" font-weight="700">40%</text>
+<text x="534.0" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">FASTER REPORTING AT</text>
+<text x="534.0" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">FIBZIO</text>
+<rect x="765.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="765.0" y="0" width="235.0" height="140" rx="16" fill="url(#stats-dots)"/>
+<rect x="789.0" y="0" width="56" height="3" rx="1.5" fill="#C77B9B"><animate attributeName="width" values="56;110;56" dur="7s" repeatCount="indefinite"/></rect>
+<text x="789.0" y="72" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="46" fill="#E5B5C7" font-weight="700">~30%</text>
+<text x="789.0" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">FASTER PROPERTY DEMOS</text>
+<text x="789.0" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#C77B9B" letter-spacing="1.8">AT OPENSKY VR</text>
+  </g>
+</svg>

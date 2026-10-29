@@ -1,112 +1,62 @@
-<a href="https://iamsammy-ak.github.io/portfolio/">
-  <img src="assets/hero.svg" alt="Abhishek Kumar — Engineering Management at Politecnico di Torino. Data, product, AI, three hackathon podiums." width="100%">
-</a>
+<a href="https://iamsammy-ak.github.io/portfolio/"><img src="assets/hero.svg" alt="Abhishek Kumar — Engineering Management at Politecnico di Torino. Data, product, AI, three hackathon podiums." width="100%"></a>
 
 <p align="center">
-  <a href="https://iamsammy-ak.github.io/portfolio/"><img alt="Walk through my 3D portfolio" src="https://img.shields.io/badge/walk%20through%20my%203D%20portfolio-%E2%86%92-701A3D?style=for-the-badge&labelColor=190B12"></a>
-  <a href="https://www.linkedin.com/in/sammy4bhishek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sammy4bhishek-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7&labelColor=190B12"></a>
-  <a href="mailto:kumarabhishekk363@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-451126?style=for-the-badge&logo=gmail&logoColor=E5B5C7&labelColor=190B12"></a>
-  <a href="https://github.com/iamsammy-ak/portfolio/blob/main/assets/Abhishek_Kumar_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-451126?style=for-the-badge&logo=readdotcv&logoColor=E5B5C7&labelColor=190B12"></a>
+  <a href="https://iamsammy-ak.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Walk through my 3D portfolio" height="58"></a>
+  <a href="https://www.linkedin.com/in/sammy4bhishek/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: sammy4bhishek" height="58"></a>
+  <a href="mailto:kumarabhishekk363@gmail.com"><img src="assets/btn-email.svg" alt="Email kumarabhishekk363@gmail.com" height="58"></a>
+  <a href="https://github.com/iamsammy-ak/portfolio/blob/main/assets/Abhishek_Kumar_CV.pdf"><img src="assets/btn-cv.svg" alt="Curriculum vitae (PDF)" height="58"></a>
 </p>
 
-<br>
+<img src="assets/h-hello.svg" alt="01 Hello" width="100%">
 
-## Hello
+<img src="assets/intro.svg" alt="I'm Abhishek, an Engineering Management master's student at Politecnico di Torino with a B.Sc. in Computer Engineering. I like the seam between engineering and business. Previously Technical Management Trainee at OpenSky VR Italia and Junior Data Analyst at Fibzio; president of the Politecnico Indian Students Association; three hackathon podiums in 2026." width="100%">
 
-I'm Abhishek, an **Engineering Management** master's student at **Politecnico di Torino**, with a B.Sc. in Computer Engineering from the same place. I like the seam between engineering and business: taking something technical, understanding who it is for, and shipping it.
+<img src="assets/stats.svg" alt="3 hackathon podiums in 2026 · 1,000+ students reached as PISA president · 40% faster reporting at Fibzio · ~30% faster property demos at OpenSky VR" width="100%">
 
-Before this I built a VR property-visualization platform as a **Technical Management Trainee at OpenSky VR Italia**, and spent a year and a half as a **Junior Data Analyst at Fibzio** turning SQL and Power BI into decisions. On the side I lead the **Politecnico Indian Students Association**, which reaches more than a thousand students. In 2026 I stood on three hackathon podiums.
+<img src="assets/h-achievements.svg" alt="02 Achievements, verified against my CV" width="100%">
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>🥇 1st</b><br><sub>LOKI Urban Monitoring<br>Hackathon · Oct 2026</sub></td>
-    <td align="center" width="200"><b>🥈 2nd</b><br><sub>Automation Hackathon<br>Mar 2026</sub></td>
-    <td align="center" width="200"><b>🥇 1st</b><br><sub>Therness Hackathon<br>Feb 2026</sub></td>
-    <td align="center" width="200"><b>1,000+</b><br><sub>students reached<br>as PISA president</sub></td>
-  </tr>
-</table>
+<img src="assets/podium.svg" alt="1st place, LOKI Urban Monitoring Hackathon, Oct 2026 (cityX civic-intelligence platform). 2nd place, Automation Hackathon, Mar 2026 (AI supply-chain risk platform). 1st place, Therness Hackathon, Feb 2026 (welding defect detection across thermal video, audio and sensor data)." width="100%">
 
-<br>
+<img src="assets/certs.svg" alt="Certificates: INSIDE LVMH Certificate, McKinsey Forward Program, CS50 Harvard" width="100%">
 
-## Achievements and certifications
+<img src="assets/h-projects.svg" alt="03 Projects, all from this account" width="100%">
 
-| | What | Detail |
-| :-: | --- | --- |
-| 🥇 | **404: Pothole Not Found, LOKI Urban Monitoring Hackathon** · 1st place · Oct 2026 | Built **cityX**, an AI civic-intelligence platform that turns street reports into actionable incidents: AI-assisted classification, geospatial analysis, duplicate detection and risk-based prioritisation, with privacy safeguards. |
-| 🥈 | **Automation Hackathon** · 2nd place · Mar 2026 | An AI supply-chain risk platform built in five hours. ScrapeGraphAI and LLMs extract supplier intelligence for 1,000+ vendors and flag geopolitical, weather and logistics risks on cargo routes. |
-| 🥇 | **Therness Hackathon** · 1st place · Feb 2026 | Analysed 1,551 welding samples across thermal video, audio and sensor data to detect and classify six defect categories. |
-| 🎓 | **INSIDE LVMH Certificate** | LVMH's programme on luxury, retail and brand strategy. |
-| 🎓 | **McKinsey Forward Program** | Problem solving, adaptability and digital fluency. |
-| 🎓 | **CS50's Introduction to Computer Science** | Harvard's foundational CS course. |
+<a href="https://github.com/iamsammy-ak/portfolio"><img src="assets/p-portfolio.svg" alt="Hand-drawn 3D portfolio: a portfolio you walk through, built with three.js, GSAP and Canvas 2D. Live at iamsammy-ak.github.io/portfolio" width="100%"></a>
+<a href="https://github.com/iamsammy-ak/ms-project-mcp"><img src="assets/p-ms-project-mcp.svg" alt="ms-project-mcp: an MCP server that drives Microsoft Project desktop through COM with 51 typed tools. Python." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/omni-pilot"><img src="assets/p-omni-pilot.svg" alt="OmniPilot: AI SOC copilot with threat analysis, NIS2 / ACN compliance reports and honeypot deception. Next.js 15, TypeScript." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/SynergySimulator"><img src="assets/p-synergysimulator.svg" alt="M&A Synergy Simulator: client-side merger model with accretion / dilution and sensitivity heatmaps. React, TypeScript. Live at synergy-simulator.vercel.app" width="100%"></a>
+<a href="https://github.com/iamsammy-ak/retailpulse"><img src="assets/p-retailpulse.svg" alt="RetailPulse BI: star-schema SQL Server model, DAX measures and an executive Power BI dashboard." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/StockVault"><img src="assets/p-stockvault.svg" alt="StockVault: stock-trading platform with live Yahoo Finance quotes, watchlists and stop-loss orders. Flask, SQLite, Plotly." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/smart-stop"><img src="assets/p-smart-stop.svg" alt="Smart Stop: helps hearing-impaired passengers identify an arriving bus using two Raspberry Pis over MQTT." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/CineSphere"><img src="assets/p-cinesphere.svg" alt="CineSphere: social network for cinephiles. ASP.NET Core 8, CQRS, Next.js, PostgreSQL." width="100%"></a>
+<a href="https://github.com/iamsammy-ak/ratemyDorm"><img src="assets/p-ratemydorm.svg" alt="RateMyDorm Italy: crowdsourced student residence reviews with a campus map. Next.js 14, TypeScript, Leaflet." width="100%"></a>
 
-<br>
+<img src="assets/h-skills.svg" alt="04 Skills" width="100%">
 
-## Selected projects
+<img src="assets/skills.svg" alt="Data and analytics: SQL, MS SQL, PostgreSQL, Power BI, DAX, Excel, FP&A. AI and engineering: Python, AI/ML, MATLAB, Docker, MCP, ScrapeGraphAI. Web: TypeScript, React, Angular, Next.js, three.js, Flask, ASP.NET Core. Product and delivery: project management, market research, JIRA, Trello, Asana, Notion, Figma. People: public speaking, entrepreneurship, volunteer teams, budgets and sponsorship. Languages: Hindi native, English professional, Italian beginner." width="100%">
 
-All of these live in this account. Click a name for the code.
-
-| Project | What it solves | Built with | |
-| --- | --- | --- | --- |
-| **[Hand-drawn 3D portfolio](https://github.com/iamsammy-ak/portfolio)** | A portfolio you walk through: paper-tear loader, a sketched building, a corridor with doors to four rooms. Every drawing is procedural canvas, no image files. | three.js, GSAP, Canvas 2D | [live ↗](https://iamsammy-ak.github.io/portfolio/) |
-| **[ms-project-mcp](https://github.com/iamsammy-ak/ms-project-mcp)** | Microsoft Project desktop has no public API. This MCP server exposes it to AI agents as 51 typed tools over COM: tasks, WBS, dependencies, resources, baselines, earned value. | Python, MCP, COM automation | |
-| **[OmniPilot](https://github.com/iamsammy-ak/omni-pilot)** | An AI SOC copilot: threat analysis, Italian NIS2 / ACN compliance reports, honeypot deception and plain-English security Q&A in one console. | Next.js 15, TypeScript | |
-| **[M&A Synergy Simulator](https://github.com/iamsammy-ak/SynergySimulator)** | Client-side financial model for merger deals: premiums, pro-forma financials, accretion/dilution, ownership splits and 2D sensitivity heatmaps. | React, TypeScript | [live ↗](https://synergy-simulator.vercel.app) |
-| **[RetailPulse BI](https://github.com/iamsammy-ak/retailpulse)** | End-to-end BI delivery for a mock retailer: star-schema SQL Server model, DAX measures, executive Power BI dashboard, testing and docs. | SQL Server, DAX, Power BI | |
-| **[StockVault](https://github.com/iamsammy-ak/StockVault)** | A stock-trading platform with portfolio tracking, live quotes from Yahoo Finance, watchlists, stop-loss orders and candlestick charts. | Flask, SQLite, Plotly | |
-| **[Smart Stop](https://github.com/iamsammy-ak/smart-stop)** | Accessibility system that lets hearing-impaired passengers identify an arriving bus. Two Raspberry Pis talk over MQTT, with a touchscreen at the stop and an LCD on the bus. | Python, Raspberry Pi, MQTT | |
-| **[CineSphere](https://github.com/iamsammy-ak/CineSphere)** | A social network for cinephiles: film logging via TMDB, spoiler-safe reviews, reactions, follows and a unified feed. | ASP.NET Core 8, CQRS / MediatR, Next.js, PostgreSQL | |
-| **[RateMyDorm Italy](https://github.com/iamsammy-ak/ratemyDorm)** | Crowdsourced reviews of student residences across Italian universities, with a campus map and side-by-side comparison. | Next.js 14, TypeScript, Leaflet | |
-
-<br>
-
-## Skills
-
-| | |
-| --- | --- |
-| **Data and analytics** | SQL (MS SQL, PostgreSQL) · Power BI · DAX · Excel · FP&A forecasting and variance analysis |
-| **AI and engineering** | Python · AI / ML · MATLAB · Docker · LLM tooling (MCP, ScrapeGraphAI) |
-| **Web** | TypeScript · React · Angular · Next.js · three.js · Flask · ASP.NET Core |
-| **Product and delivery** | Project management · Market and startup research · JIRA · Trello · Asana · Notion · Figma |
-| **People** | Public speaking · Entrepreneurship · Leading volunteer teams of 10+ · Event budgets and sponsorship |
-| **Languages** | Hindi (native) · English (professional) · Italian (beginner) |
-
-<br>
-
-## Contributions
+<img src="assets/h-contributions.svg" alt="05 Contributions, live data from GitHub" width="100%">
 
 <p align="center">
-  <a href="https://github.com/iamsammy-ak"><img src="https://ghchart.rshah.org/451126/iamsammy-ak" alt="Abhishek's GitHub contribution graph for the last year" width="100%"></a>
+  <a href="https://github.com/iamsammy-ak"><img src="https://ghchart.rshah.org/451126/iamsammy-ak" alt="GitHub contribution graph for the last year" width="100%"></a>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamsammy-ak&theme=transparent&hide_border=true&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B&background=00000000&stroke=451126" alt="GitHub streak statistics" height="170">
 </p>
-<p align="center"><sub>Both cards are live data from GitHub: the contribution graph via ghchart.rshah.org, the streak via streak-stats.demolab.com.</sub></p>
 
-<br>
+<img src="assets/h-experience.svg" alt="06 Experience" width="100%">
 
-## Experience in one line each
+<img src="assets/timeline.svg" alt="2025 to now: M.Sc. Engineering Management, Politecnico di Torino. Jan to Jun 2025: Technical Management Trainee, OpenSky VR Italia. Sep 2023 to Dec 2024: Junior Data Analyst, Fibzio. Apr 2023 to now: President, Politecnico Indian Students Association. May to Jul 2024: Logistics Coordinator, Torino 2025 FISU Games. Nov 2022 to Jun 2023: Marketing Manager, AIESEC. 2022 to 2025: B.Sc. Computer Engineering, Politecnico di Torino." width="100%">
 
-| When | Role | Where |
-| --- | --- | --- |
-| 2025 – now | M.Sc. Engineering Management, Business Solutions / Finance | Politecnico di Torino |
-| Jan – Jun 2025 | Technical Management Trainee · React, Angular, Matterport, LiDAR · MVP in six months, ~30% faster property presentations | OpenSky VR Italia |
-| Sep 2023 – Dec 2024 | Junior Data Analyst · SQL, Power BI, FP&A · 40% faster reporting, 20% fewer incidents | Fibzio |
-| Apr 2023 – now | President · strategy and events for 1,000+ students, a Red Bull-sponsored chess tournament with 400+ players | Politecnico Indian Students Association |
-| May – Jul 2024 | Logistics Coordinator across 5+ venues | Torino 2025 FISU Games |
-| Nov 2022 – Jun 2023 | Marketing Manager · 10+ volunteers | AIESEC |
-| 2022 – 2025 | B.Sc. Computer Engineering | Politecnico di Torino |
-
-<br>
-
-## Find me
+<img src="assets/h-contact.svg" alt="07 Contact" width="100%">
 
 <p align="center">
-  <a href="https://github.com/iamsammy-ak"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-iamsammy--ak-190B12?style=flat-square&logo=github&logoColor=E5B5C7"></a>
-  <a href="https://www.linkedin.com/in/sammy4bhishek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sammy4bhishek-190B12?style=flat-square&logo=linkedin&logoColor=E5B5C7"></a>
-  <a href="mailto:kumarabhishekk363@gmail.com"><img alt="Email" src="https://img.shields.io/badge/kumarabhishekk363%40gmail.com-190B12?style=flat-square&logo=gmail&logoColor=E5B5C7"></a>
-  <a href="https://iamsammy-ak.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3D%20sketchbook-190B12?style=flat-square&logo=githubpages&logoColor=E5B5C7"></a>
+  <a href="https://github.com/iamsammy-ak"><img src="assets/btn-github.svg" alt="GitHub: iamsammy-ak" height="58"></a>
+  <a href="https://www.linkedin.com/in/sammy4bhishek/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: sammy4bhishek" height="58"></a>
+  <a href="mailto:kumarabhishekk363@gmail.com"><img src="assets/btn-email.svg" alt="Email kumarabhishekk363@gmail.com" height="58"></a>
+  <a href="https://iamsammy-ak.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Walk through my 3D portfolio" height="58"></a>
 </p>
 
-<p align="center"><sub>Turin, Italy · open to collaborations, product and data roles, and the occasional hackathon team.</sub></p>
+<img src="assets/divider.svg" alt="" width="100%">
 
-<img src="assets/footer.svg" alt="Thanks for walking through. Say hello." width="100%">
+<img src="assets/footer.svg" alt="Computer engineer by training, manager by ambition. Thanks for walking through. Say hello." width="100%">
