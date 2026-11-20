@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="118" viewBox="0 0 1000 118" role="img" aria-labelledby="popsmindai-t">
+  <title id="popsmindai-t">OpsMind AI: Process mining on event logs: process maps, bottlenecks, rework and conformance, KPI control charts, and the eight Lean wastes with the hours a month each fix would save. Built with Python · SciPy · Graphviz · Streamlit.</title>
+  <defs>
+    <linearGradient id="popsmindai-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#23091A"/>
+    </linearGradient>
+    <linearGradient id="popsmindai-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="popsmindai-dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.6" fill="#C77B9B" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="popsmindai-clip"><rect width="1000" height="118" rx="18"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#popsmindai-clip)">
+<rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#popsmindai-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#popsmindai-dots)"/>
+<rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">08</text>
+<text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">OpsMind AI</text>
+<text x="197.20000000000002" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">opsmind-ai</text>
+<text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">Process mining on event logs: process maps, bottlenecks, rework and conformance, KPI control</text>
+<text x="36" y="85" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">charts, and the eight Lean wastes with the hours a month each fix would save.</text>
+<text x="976" y="100" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#E5B5C7" text-anchor="end" letter-spacing="1.5" fill-opacity="0.85">PYTHON · SCIPY · GRAPHVIZ · STREAMLIT</text>
+  </g>
+</svg>

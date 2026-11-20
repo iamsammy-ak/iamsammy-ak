@@ -16,7 +16,7 @@
   <g clip-path="url(#psynergysimulator-clip)">
 <rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#psynergysimulator-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#psynergysimulator-dots)"/>
 <rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
-<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">04</text>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">12</text>
 <text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">M&amp;A Synergy Simulator</text>
 <rect x="354.92" y="20" width="57" height="22" rx="11.0" fill="#701A3D" stroke="#E5B5C7" stroke-width="1"/><text x="383.42" y="34.6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#F8F0F3" text-anchor="middle">LIVE ↗</text>
 <text x="423.92" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">SynergySimulator</text>

@@ -16,7 +16,7 @@
   <g clip-path="url(#pretailpulse-clip)">
 <rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pretailpulse-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pretailpulse-dots)"/>
 <rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
-<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">05</text>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">13</text>
 <text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">RetailPulse BI</text>
 <text x="255.28" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">retailpulse</text>
 <text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">End-to-end BI delivery for a mock retailer: star-schema SQL Server model, DAX measures, an</text>

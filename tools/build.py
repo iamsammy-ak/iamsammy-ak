@@ -64,6 +64,38 @@ PROJECTS = [
     ("Hand-drawn 3D portfolio", "portfolio", "https://iamsammy-ak.github.io/portfolio/",
      "A portfolio you walk through: paper-tear loader, a sketched building, a corridor with doors to four rooms. "
      "Every drawing is procedural canvas, no image files.", "three.js · GSAP · Canvas 2D"),
+    ("VentureLens AI", "venturelens-ai", "",
+     "Evaluates a startup idea like an investment committee: unit economics, bottom-up TAM / SAM / SOM, a cash "
+     "projection, a weighted scorecard and an AI-written investment memo.",
+     "Python · Streamlit · Plotly · LLM agents"),
+    ("SupplyChainIQ", "supplychainiq", "",
+     "Predicts late deliveries with gradient boosting, scores supplier risk, splits delays by stage and sizes "
+     "safety stock, then an AI step writes a mitigation brief from the results.",
+     "Python · scikit-learn · Streamlit"),
+    ("RecruitFlow AI", "recruitflow-ai", "",
+     "First-round screening with a human in the loop: anonymised CVs, explainable match scores, a check that "
+     "scores don't move with name, gender or age, panel scheduling and an audit trail.",
+     "Python · scikit-learn · Streamlit · LLM agents"),
+    ("MarketPulse AI", "marketpulse-ai", "",
+     "Monitors competitor and industry news: share of voice, coverage spikes, theme clusters and merged duplicate "
+     "headlines, summed up in an AI briefing whose citations are checked.",
+     "Python · scikit-learn · RSS · Streamlit"),
+    ("PropTech Vision", "proptech-vision", "",
+     "Buy-to-let analysis as a lender and investor see it: monthly cash flow, mortgage schedule, DSCR, IRR and NPV, "
+     "stress tests and an OpenStreetMap location score, plus an AI risk memo.",
+     "Python · Streamlit · OpenStreetMap"),
+    ("DealSense AI", "dealsense-ai", "",
+     "Procurement negotiation assistant: total cost of ownership per quote, TOPSIS ranking with a Monte Carlo "
+     "robustness test, BATNA and ZOPA, and AI-drafted counter-offer emails.",
+     "Python · Streamlit · LLM agents"),
+    ("OpsMind AI", "opsmind-ai", "",
+     "Process mining on event logs: process maps, bottlenecks, rework and conformance, KPI control charts, and "
+     "the eight Lean wastes with the hours a month each fix would save.",
+     "Python · SciPy · Graphviz · Streamlit"),
+    ("ResearchPilot AI", "researchpilot-ai", "",
+     "Literature-review assistant: BM25 evidence search over papers, a topic map of the literature, dataset "
+     "statistics and an AI report whose citations are checked sentence by sentence.",
+     "Python · scikit-learn · BM25 · Streamlit"),
     ("ms-project-mcp", "ms-project-mcp", "",
      "Microsoft Project desktop has no public API. This MCP server hands it to AI agents as 51 typed tools over COM: "
      "tasks, WBS, dependencies, resources, baselines, earned value.", "Python · MCP · COM automation"),

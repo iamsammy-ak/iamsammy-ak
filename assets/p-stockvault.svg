@@ -16,7 +16,7 @@
   <g clip-path="url(#pstockvault-clip)">
 <rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pstockvault-bg)" stroke="#701A3D" stroke-opacity="0.8" stroke-width="1"/><rect x="0" y="0" width="1000" height="118" rx="16" fill="url(#pstockvault-dots)"/>
 <rect x="0" y="0" width="5" height="118" fill="#C77B9B"/>
-<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">06</text>
+<text x="976" y="32" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#C77B9B" text-anchor="end" letter-spacing="2">14</text>
 <text x="36" y="40" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="22" fill="#F8F0F3" font-weight="700">StockVault</text>
 <text x="197.20000000000002" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C77B9B" fill-opacity="0.9">StockVault</text>
 <text x="36" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F8F0F3" fill-opacity="0.82">A stock-trading platform with portfolio tracking, live quotes from Yahoo Finance, watchlists,</text>
